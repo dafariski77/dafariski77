@@ -1,14 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi there 👋</h2>
 
-###### A student of Informatics Engineering from Semarang State Polytechnic
-![](https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dafariski77&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br /> -->
+  <h5>A student of Informatics Engineering from Semarang State Polytechnic</h5>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dafariski77&layout=compact&theme=tokyonight)
-
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dafariski77&show_icons=true&theme=tokyonight) -->
-
-<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dafariski77&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img
+    height="160"
+    alt="Aromal's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=dafariski77&show_icons=true&theme=tokyonight&count_private=true"
+  />
+  <img
+    alt="Aromal's Github Stats"
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafariski77&layout=compact&theme=tokyonight"
+  />
+</div>
