@@ -16,6 +16,6 @@
 
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,express,nextjs,laravel,postgres,mysql,mongodb,planetscale,prisma,docker,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,express,nextjs,laravel,nestjs,postgres,mysql,mongodb,redis,planetscale,prisma,docker,git,jest&perline=14" />
   </a>
 </div>
