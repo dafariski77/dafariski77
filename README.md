@@ -13,4 +13,9 @@
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafariski77&layout=compact&theme=tokyonight"
   />
+
+  <h2>Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,express,nextjs,laravel,postgres,mysql,mongodb,planetscale,prisma,docker,git&perline=14" />
+  </a>
 </div>
