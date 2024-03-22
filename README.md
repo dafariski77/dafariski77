@@ -18,4 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,express,nextjs,laravel,nestjs,postgres,mysql,mongodb,redis,planetscale,prisma,docker,git,jest,nginx,yarn&perline=14" />
   </a>
+
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true" alt="Profile Views">
 </div>
