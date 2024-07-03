@@ -21,4 +21,7 @@
 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true" alt="Profile Views">
+    
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
