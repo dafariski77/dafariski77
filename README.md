@@ -23,5 +23,18 @@
   <img src="https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true" alt="Profile Views">
     
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```python
+From: 16 August 2023 - To: 03 July 2024
+
+Total Time: 688 hrs 38 mins
+
+PHP                        297 hrs 14 mins ██████████▓░░░░░░░░░░░░░░   42.38 %
+JavaScript                 252 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.01 %
+TypeScript                 31 hrs 7 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+JSON                       22 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Python                     18 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+```
+
+<!--END_SECTION:waka-->
 </div>
