@@ -25,15 +25,15 @@
   <!--START_SECTION:waka-->
 
 ```python
-From: 16 August 2023 - To: 30 July 2024
+From: 16 August 2023 - To: 31 July 2024
 
-Total Time: 749 hrs 5 mins
+Total Time: 750 hrs 41 mins
 
-JavaScript                 302 hrs 45 mins ██████████░░░░░░░░░░░░░░░   39.74 %
-PHP                        297 hrs 14 mins █████████▓░░░░░░░░░░░░░░░   39.02 %
-TypeScript                 38 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-JSON                       22 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Python                     18 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+JavaScript                 302 hrs 45 mins ██████████░░░░░░░░░░░░░░░   39.66 %
+PHP                        297 hrs 14 mins █████████▓░░░░░░░░░░░░░░░   38.94 %
+TypeScript                 39 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JSON                       22 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python                     18 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
