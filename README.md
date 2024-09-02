@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi there 👋</h2>
 
-  <h5>A student of Informatics Engineering from Semarang State Polytechnic</h5>
+  <h5>Fresh Graduate Informatics Engineering from Semarang State Polytechnic</h5>
 
   <img
     height="160"
