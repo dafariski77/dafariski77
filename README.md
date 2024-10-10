@@ -15,9 +15,8 @@
   />
 
   <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nextjs,laravel,mysql,prisma,docker,git,gcp,tailwind&perline=14" />
-  </a>
+  
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=typescript,next.js,react,tailwindcss,shadcnui,reactquery,prisma,socketdotio,zod)
 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true" alt="Profile Views">
