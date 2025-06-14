@@ -21,7 +21,7 @@
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=dafariski77&abbreviated=true" alt="Profile Views">
     
-  <!--START_SECTION:waka-->
+  <!--START_SECTION:waka
 
 ```rust
 From: 16 August 2023 - To: 13 June 2025
@@ -35,5 +35,5 @@ Python                     130 hrs 59 mins █▓░░░░░░░░░░�
 Bash                       25 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 </div>
